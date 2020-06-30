@@ -1,5 +1,5 @@
 # MNIST-GAN
-My attempt at making a MNIST GAN to generate numbers from 0 to 9 in tensorflow keras
+My attempt at making a MNIST GAN to generate images of numbers from 0 to 9 similar to the MNIST digits dataset in tensorflow keras
 
 
 # Some pretty good generated images before the mode collapse of the Generative Adversarial Network
